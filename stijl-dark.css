@@ -1,0 +1,17 @@
+body {
+  background-color: rgb(29, 29, 29);
+  color: white;
+}
+
+nav {
+  background-color: rgba(0, 31, 77, 0.95);
+}
+
+nav a {
+  color: rgb(2, 189, 247);
+}
+
+#cover {
+
+  border: solid white 0.1rem;
+}
